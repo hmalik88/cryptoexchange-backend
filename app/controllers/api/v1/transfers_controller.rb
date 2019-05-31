@@ -1,0 +1,2 @@
+class TransfersController < ApplicationRecord
+end
