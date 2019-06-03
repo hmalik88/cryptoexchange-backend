@@ -13,7 +13,7 @@ class Api::V1::AuthController < ApplicationController
 
   def show
     if current_user
-      render json: {user: current_user}
+      render json: {user: current_user, transfers: current_user.transfers}
     else
       render json: {error: "not logged in"}, status: 422
     end
