@@ -2,7 +2,7 @@ class Api::V1::TransfersController < ApplicationController
 
   def create
     @transfer = Transfer.new(transfer_params)
-    if @transfer
+    if @transfer.valid?
       @transfer.save
       if (transfer_params[:user_id] == 1)
         sub_amount = 0
