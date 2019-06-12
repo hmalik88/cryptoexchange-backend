@@ -1,4 +1,4 @@
-# CryptoXChange - 
+#                                                   CryptoXChange
 
 ### LIVE LINK - https://cryptoexchange-frontend.herokuapp.com/
 
