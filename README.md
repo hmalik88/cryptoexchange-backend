@@ -1,24 +1,17 @@
-# README
+# CryptoXChange
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A pet project to practice some Data Visualization. Generate some MalikCoin through a faucet and send those to other addresses! You can generate a random hash as an address and 'claim' that account. Then you can use that account to send/receive MalikCoin. There also is a visualization illustrating the cashflows in/out of the accounts you've interacted with.
 
-Things you may want to cover:
+*Note: This is the back-end to the front-end of CryptoXChange, you will need to have the server running to persist data.*
 
-* Ruby version
+**Step 1** - Clone down the repository
 
-* System dependencies
+**Step 2** - Run gem install 
 
-* Configuration
+**Step 3** - Run rails s 
 
-* Database creation
+Please check the following video for a demo of the project!
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Watch the video](https://img.youtube.com/vi/Y6moSBYWI74/maxresdefault.jpg)](https://youtu.be/Y6moSBYWI74)
