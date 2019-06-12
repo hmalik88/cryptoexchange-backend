@@ -12,9 +12,11 @@ A pet project to practice some Data Visualization. Generate some MalikCoin throu
 
 **Step 3** - Run rails s 
 
+**FRONT-END LINK:** https://github.com/hmalik88/cryptoexchange
+
 Please check the following video for a demo of the project!
 
-**FRONT-END LINK:** https://github.com/hmalik88/cryptoexchange
+
 
 
 
